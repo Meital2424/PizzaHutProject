@@ -1,4 +1,4 @@
-![image](https://github.com/Meital2424/PizzaHutProject/assets/144711573/da82e4c3-9a53-4edf-8a91-c034816b572d)**Pizza Hut**
+**Pizza Hut**
 
 *Details on the site :* 
                                         זהו אתר דמה של עסק פיצריה בשם "פיצה האט", אתר זה משמש את הלקוח בצורה נוחה ועדכנית, כך שהזמנותיו יבוצעו באונליין.
